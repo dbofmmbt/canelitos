@@ -1,0 +1,21 @@
+{
+    "name": "canelitos",
+    "displayName": "Canelitos",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Canelitos",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Canelitos-color-theme.json"
+            }
+        ]
+    }
+}
